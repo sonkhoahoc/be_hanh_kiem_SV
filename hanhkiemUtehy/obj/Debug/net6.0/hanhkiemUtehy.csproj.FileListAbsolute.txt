@@ -1,0 +1,138 @@
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.csproj.AssemblyReference.cache
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.GeneratedMSBuildEditorConfig.editorconfig
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.AssemblyInfoInputs.cache
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.AssemblyInfo.cs
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.csproj.CoreCompileInputs.cache
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.MvcApplicationPartsAssemblyInfo.cs
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.MvcApplicationPartsAssemblyInfo.cache
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\appsettings.Development.json
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\appsettings.json
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\hanhkiemUtehy.exe
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\hanhkiemUtehy.deps.json
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\hanhkiemUtehy.runtimeconfig.json
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\hanhkiemUtehy.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\hanhkiemUtehy.pdb
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\AutoMapper.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Humanizer.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets\msbuild.hanhkiemUtehy.Microsoft.AspNetCore.StaticWebAssets.props
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets\msbuild.build.hanhkiemUtehy.props
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.hanhkiemUtehy.props
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.hanhkiemUtehy.props
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets.pack.json
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets.build.json
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets.development.json
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\scopedcss\bundle\hanhkiemUtehy.styles.css
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.csproj.CopyComplete
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\refint\hanhkiemUtehy.dll
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.pdb
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.genruntimeconfig.cache
+E:\2. Work\3. Đồ án\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\ref\hanhkiemUtehy.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\appsettings.Development.json
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\appsettings.json
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\hanhkiemUtehy.exe
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\hanhkiemUtehy.deps.json
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\hanhkiemUtehy.runtimeconfig.json
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\hanhkiemUtehy.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\hanhkiemUtehy.pdb
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\AutoMapper.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Humanizer.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.csproj.AssemblyReference.cache
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.GeneratedMSBuildEditorConfig.editorconfig
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.AssemblyInfoInputs.cache
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.AssemblyInfo.cs
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.csproj.CoreCompileInputs.cache
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.MvcApplicationPartsAssemblyInfo.cs
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.MvcApplicationPartsAssemblyInfo.cache
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets\msbuild.hanhkiemUtehy.Microsoft.AspNetCore.StaticWebAssets.props
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets\msbuild.build.hanhkiemUtehy.props
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.hanhkiemUtehy.props
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.hanhkiemUtehy.props
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets.pack.json
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets.build.json
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\staticwebassets.development.json
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\scopedcss\bundle\hanhkiemUtehy.styles.css
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.csproj.CopyComplete
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\refint\hanhkiemUtehy.dll
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.pdb
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\hanhkiemUtehy.genruntimeconfig.cache
+D:\clone code individual\doanhanhkiem\backend\hanhkiemUtehy\hanhkiemUtehy\obj\Debug\net6.0\ref\hanhkiemUtehy.dll
